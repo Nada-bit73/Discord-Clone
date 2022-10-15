@@ -1,6 +1,6 @@
-Discord Clone
+### Discord Clone
 
-Motivation
+### Motivation
 
 The Discord Clone was developed during the Coding Dojo Software Development Immersive Full-Time Bootcamp.
 
